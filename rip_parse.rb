@@ -56,4 +56,5 @@ csvs.each do |file|
   end
 end
 
+@logfile << "\n\n Total count: #{total_sum}"
 puts "#{value} rows in all csv files: #{total_sum}"
