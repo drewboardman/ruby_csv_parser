@@ -1,0 +1,6 @@
+*.csv
+vendor/
+.ruby-version
+.bundle
+Gemfile.lock
+log/
